@@ -1,0 +1,7 @@
+To do list pro hru
+- úprava hlasitosti v menu
+- fullscreen on/off
+- přidat základní zvuky jako střelba, nějaká hudba...
+- předělat celý zbraňový systém (přepínání, náboje, sbírání ze země)
+- otáčení hráče podle směru
+- rozhodnout se jak budou vypadat grafiky 
