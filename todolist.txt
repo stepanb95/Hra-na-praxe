@@ -5,3 +5,5 @@ To do list pro hru
 - předělat celý zbraňový systém (přepínání, náboje, sbírání ze země)
 - otáčení hráče podle směru
 - rozhodnout se jak budou vypadat grafiky 
+- pause menu
+- první level 
